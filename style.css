@@ -1,0 +1,18 @@
+body{
+  width:100%;
+  height: calc(100vh - 50px);
+  margin: 0px;
+  padding: 25px 0px;
+  text-align: center;
+  background-color: #bebebe;
+}
+
+#output {
+  width: 80%;    
+  overflow: hidden;
+  padding: 35px;
+  margin: auto;
+  border-radius: 8px;
+  background-color: #686868;
+   box-shadow: 0 5px 10px 0 rgb(61, 60, 60);    
+}
